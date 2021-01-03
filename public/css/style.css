@@ -1,0 +1,26 @@
+
+      .bottom {
+          position: fixed;
+          bottom: 0;
+      }
+      a.auftrag-card,
+      a.auftrag-card:hover {
+        color: inherit;
+      }
+      .card-panel {
+        border-radius: 1.5rem;
+      }
+      .round {
+        border-top-left-radius: 0.8rem;
+        border-top-right-radius: 0.8rem;
+        border-bottom-left-radius: 0.8rem;
+        border-bottom-right-radius: 0.8rem;
+      }
+      .content {
+        /* (unschön) damit nicht unter der Fuss-Navigation angezeigt wird  */
+        margin-bottom: 20%; 
+      }
+
+      .bottom-nav {
+        background-color: #cfe9fc;
+      }

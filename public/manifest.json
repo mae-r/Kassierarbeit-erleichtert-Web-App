@@ -1,0 +1,16 @@
+{
+  "short_name": "Kassier",
+  "name": "Kassier",
+  "start_url": "/",
+  "background_color": "#cfe9fc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#cfe9fc",
+  "icons": [
+    {
+        "src": "img/icons/icon980x980.png",
+        "sizes": "980x980",
+        "type": "image/png"
+    }
+  ]
+}
